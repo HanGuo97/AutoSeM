@@ -1,0 +1,7 @@
+tqdm
+scipy
+spacy
+namedlist
+scikit-learn
+tensorflow_hub
+scikit-optimize
