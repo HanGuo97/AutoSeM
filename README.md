@@ -29,8 +29,7 @@ AllenNLP's website includes a very detailed tutorial.
 `python run_MTL.py --logdir [logdir] --tasks [tasks] --embedding_dim [embedding_dim] --num_units [num_units] --num_layers [num_layers] --dropout_rate [dropout_rate] --learning_rate [learning_rate] --stage [stage]`
 
 
-### Pre-trained Models
-Models coming soon.
+[Pre-trained Models](https://drive.google.com/open?id=1Yy_jDoRDSrKGLhiALJYfpSGcjE6zpHH5)
 
 # Citation
 ```
