@@ -1,0 +1,1 @@
+python run_MTL.py --logdir "/path/to/logdir/" --tasks "MRPC-QQP-WNLI-QNLI-RTE-MNLIMatched" --embedding_dim 512 --num_units 512 --num_layers 2 --dropout_rate 0.25 --learning_rate 0.001 --model_type "CachedELMO-LSTM-Hard" --mixing_ratios "1-1-1-1-1-1" --training_strategy "Standard" --automr_update_rate "0.0" --automr_reward_scale "1.0" --ckpt_file "/path/to/ckpt/"
