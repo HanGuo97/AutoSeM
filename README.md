@@ -1,5 +1,5 @@
 # AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning
-Han Guo, Ramakanth Pasunuru, and Mohit Bansal. NAACL 2019
+Han Guo, Ramakanth Pasunuru, and Mohit Bansal. NAACL 2019 [pdf](https://arxiv.org/abs/1904.04153)
 
 ### Dependencies
 * The project originally runs in Tensorflow 1.8, but should be compatible for future versions (except TF 2.0).
