@@ -29,7 +29,7 @@ AllenNLP's website includes a very detailed tutorial.
 `python run_MTL.py --logdir [logdir] --tasks [tasks] --embedding_dim [embedding_dim] --num_units [num_units] --num_layers [num_layers] --dropout_rate [dropout_rate] --learning_rate [learning_rate] --stage [stage]`
 
 
-[Pre-trained Models](https://drive.google.com/open?id=16FPZuL9tvo_qm8GAnUZSMT3Xr3qfumnn)
+[Pre-trained Models](https://drive.google.com/open?id=16FPZuL9tvo_qm8GAnUZSMT3Xr3qfumnn): append the ckpt_file argument to the command line arguments.
 
 # Citation
 ```
